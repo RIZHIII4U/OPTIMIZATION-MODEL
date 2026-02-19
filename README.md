@@ -134,6 +134,9 @@ Visualization is included to display selected locations and capacity distributio
 
 This project demonstrates how Integer Linear Programming can address real-world infrastructure challenges. By integrating cost, capacity, and demand constraints, the model provides a practical framework for sustainable EV charging station deployment and smart city development.
 
----
+## Output
+<img width="1871" height="770" alt="Image" src="https://github.com/user-attachments/assets/9f24f240-47ce-4814-9526-0c75a0de7d24" />
 
-If you want, I can also give you a **short 150-word abstract** for internship submission or a **resume-ready project description (3–4 lines)**.
+
+
+
