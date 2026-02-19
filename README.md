@@ -89,6 +89,8 @@ This project demonstrates how Integer Linear Programming can address real-world 
 
 <img width="1877" height="641" alt="Image" src="https://github.com/user-attachments/assets/872f6c56-153a-4369-a3cf-186f9b94fbef" />
 
+<img width="1743" height="600" alt="Image" src="https://github.com/user-attachments/assets/9b06a971-3ae0-4d1d-a652-842e6746de50" />
+
 
 
 
