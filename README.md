@@ -79,56 +79,6 @@ Z = Σ (Cost_i × Xi)
 3. Binary Constraint
    Xi ∈ {0,1}
 
----
-
-## Technologies Used
-
-* Python 3.x
-* PuLP (Linear Programming Library)
-* Jupyter Notebook
-* Matplotlib (Visualization)
-
----
-
-## How to Run
-
-1. Install dependencies:
-
-```bash
-pip install pulp matplotlib
-```
-
-2. Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-3. Open and run the notebook file.
-
----
-
-## Results
-
-The model determines:
-
-* Optimal set of charging station locations
-* Minimum installation cost
-* Total charging capacity achieved
-* Solver status (Optimal/Feasible)
-
-Visualization is included to display selected locations and capacity distribution.
-
----
-
-## Key Insights
-
-* Optimization ensures cost-efficient infrastructure planning.
-* Binary integer programming is effective for location selection problems.
-* Budget-constrained modeling supports financial feasibility.
-* The model is scalable and can be extended to multi-zone or multi-period planning.
-
----
 
 ## Conclusion
 
@@ -136,6 +86,8 @@ This project demonstrates how Integer Linear Programming can address real-world 
 
 ## Output
 <img width="1871" height="770" alt="Image" src="https://github.com/user-attachments/assets/9f24f240-47ce-4814-9526-0c75a0de7d24" />
+
+<img width="1877" height="641" alt="Image" src="https://github.com/user-attachments/assets/872f6c56-153a-4369-a3cf-186f9b94fbef" />
 
 
 
