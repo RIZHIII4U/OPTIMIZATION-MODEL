@@ -93,4 +93,6 @@ This project demonstrates how Integer Linear Programming can address real-world 
 
 <img width="832" height="768" alt="Image" src="https://github.com/user-attachments/assets/3897bc4c-9fa0-4143-b87f-d133372c564e" />
 
+<img width="931" height="275" alt="Image" src="https://github.com/user-attachments/assets/5b171fcb-50cb-422a-af11-cd1dd19f579c" />
+
 
